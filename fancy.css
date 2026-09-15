@@ -1,10 +1,6 @@
 body {
   color: navy
 }
-h1 {
-  color: blue;
-  background-color: red;
-}
 
 table {
   boarder-colapse: collapse;
@@ -39,4 +35,10 @@ tr:nth-child(3) > td {
 
 #turnSpan {
         font-weight: bold;
+}
+
+
+h1 {
+  color: blue;
+  background-color: red;
 }
