@@ -1,7 +1,7 @@
 body {
   color: red;
-  font-family: "Gill Sans", sans;
-  background-color: aliceblue;
+  font-family: vardana, sans-serif;
+  background-color: AliceBlue;
 }
 
 a {
@@ -45,7 +45,7 @@ tr:nth-child(3) > td {
 
 
 h1 {
-  font-size: 30pt;
+  font-size: 50pt;
   color: red;
   background-color: gold;
 }
