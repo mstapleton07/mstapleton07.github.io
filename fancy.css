@@ -1,5 +1,11 @@
 body {
-  color: navy
+  color: navy;
+  font-family: Roboto;
+  background-color: Gold;
+}
+
+a {
+ color: teal;
 }
 
 table {
@@ -39,6 +45,7 @@ tr:nth-child(3) > td {
 
 
 h1 {
+  font-size: 30pt;
   color: blue;
   background-color: red;
 }
