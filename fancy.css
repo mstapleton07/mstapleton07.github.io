@@ -46,7 +46,7 @@ tr:nth-child(3) > td {
 
 h1 {
   font-size: 50pt;
-  font-family: "Times New Roman", serif;
+  font-family: 'Times New Roman', serif;
   color: red;
   background-color: gold;
 }
