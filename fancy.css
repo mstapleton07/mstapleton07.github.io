@@ -1,11 +1,11 @@
 body {
   color: red;
-  font-family: roboto;
-  background-color: lightblue;
+  font-family: "Gill Sans", sans;
+  background-color: navy;
 }
 
 a {
- color: teal;
+ color: purple;
 }
 
 table {
@@ -47,5 +47,5 @@ tr:nth-child(3) > td {
 h1 {
   font-size: 30pt;
   color: red;
-  background-color: navy;
+  background-color: gold;
 }
