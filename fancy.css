@@ -1,7 +1,7 @@
 body {
-  color: navy;
+  color: Darkred;
   font-family: Roboto;
-  background-color: Gold;
+  background-color: Lightblue;
 }
 
 a {
@@ -46,6 +46,6 @@ tr:nth-child(3) > td {
 
 h1 {
   font-size: 30pt;
-  color: blue;
-  background-color: red;
+  color: Darkred;
+  background-color: Navy;
 }
