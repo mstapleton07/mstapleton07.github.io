@@ -1,3 +1,10 @@
+h1 {
+  font-size: 50pt;
+  font-family: 'Times New Roman', serif;
+  color: red;
+  background-color: gold;
+}
+
 body {
   color: red;
   font-family: Verdana, sans-serif;
@@ -43,10 +50,3 @@ tr:nth-child(3) > td {
         font-weight: bold;
 }
 
-
-h1 {
-  font-size: 50pt;
-  font-family: 'Times New Roman', serif;
-  color: red;
-  background-color: gold;
-}
