@@ -9,7 +9,7 @@ a {
 }
 
 table {
-  boarder-colapse: collapse;
+  border-colapse: collapse;
 }
 
 
@@ -20,7 +20,6 @@ td {
     font-size: 90px;
     text-align: center;
     font-family: sans;
-    text-align: center;
 }
 
 td:nth-child(1) {
